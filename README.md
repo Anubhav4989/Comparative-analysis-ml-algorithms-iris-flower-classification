@@ -25,4 +25,4 @@ To run the code, you will need the following Python packages:
 After training and evaluating the models, we found that the decision tree algorithm performed the best, achieving an accuracy of 100% on the test set. 
 
 ## Conclusion
-Through this project, we have demonstrated the proficiency in machine learning concepts and the ability to perform a comprehensive analysis of various algorithms for a specific task. The results of this project can be used to select the best algorithm for iris flower classification in future applications.
+Through this project, I have demonstrated proficiency in machine learning concepts and the ability to conduct a comprehensive analysis of various algorithms for the specific task of iris flower classification. The project's results can be utilized to select the best algorithm for future applications involving iris flower classification.
